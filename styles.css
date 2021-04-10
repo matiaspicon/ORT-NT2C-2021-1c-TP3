@@ -64,3 +64,15 @@ ul {
 .todo-container:first-of-type {
   border-top: 1px solid #333;
 }
+
+.count-cb-bad{
+  color: red;
+}
+
+.count-cb-warning{
+  color: orange;
+}
+
+.count-cb-good{
+  color: green;
+}
